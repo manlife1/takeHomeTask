@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetrofitTest2</string>
+    <string name="search">Search</string>
+    <string name="gridItemView">gridItemView</string>
+    <string name="zoomed_image">Zoomed Image</string>
+    <string name="page1">Page 1 Of 2</string>
+    <string name="page2">Page 2 Of 2</string>
+    <string name="closebutton">closeButton</string>
+</resources>
